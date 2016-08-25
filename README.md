@@ -1,7 +1,7 @@
 # Android-code
 
 ##EditText  
-* 设置弹出键盘回车键显示内容,实现这个功能需要调用EditText的setImeOptions方法
+> * 设置弹出键盘回车键显示内容,实现这个功能需要调用EditText的setImeOptions方法
 ```
 /**
 *
@@ -14,7 +14,7 @@ mInputEditTxt.setImeOptions(EditorInfo.IME_ACTION_SEARCH);
 ```
 * 监听输入法中的回车按钮，可以通过监听EditText的按键点击事件来实现：
 ```
-/**
+> /**
  * 监听输入法按键
  * 
  * */
