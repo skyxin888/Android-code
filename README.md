@@ -31,6 +31,8 @@ mInputEditTxt.setOnKeyListener(new OnKeyListener() {
 ```
 ## 华为手机输出log
 开启工程模式
+
 1：如果是华为手机：进入拨号界面输入：*#*#2846579#*#*依次选择ProjectMenu---后台设置----LOG设置---LOG开关 点击打开
+
 2：如果是华为pad打开自带计算器输入引号中的内容“()()2846579()()=”就会进入工程模式，然后就可以跟手机一样设置logcat开关
 
